@@ -1,6 +1,6 @@
 {
   "name": "wx-js-sdk-1.4.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "我只是将官方的'https://res.wx.qq.com/open/js/jweixin-1.4.0.js'的内容打包，方便大家webpack项目使用。",
   "main": "index.js",
   "scripts": {
