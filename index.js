@@ -1,1 +1,2 @@
-module.exports = require('./lib');
+let wx = require('./lib');
+module.exports = wx.default;
