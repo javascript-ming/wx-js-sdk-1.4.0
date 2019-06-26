@@ -1,0 +1,26 @@
+{
+  "name": "wx-js-sdk-1.4.0",
+  "version": "1.0.0",
+  "description": "我只是将官方的'https://res.wx.qq.com/open/js/jweixin-1.4.0.js'的内容打包，方便大家webpack项目使用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascript-ming/wx-js-sdk-webpack.git"
+  },
+  "keywords": [
+    "wx-js-sdk",
+    "wx-js-sdk-1.4",
+    "wx1.4",
+    "wx-js-1.4",
+    "wx-1.4.0"
+  ],
+  "author": "xiaomingming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javascript-ming/wx-js-sdk-webpack/issues"
+  },
+  "homepage": "https://github.com/javascript-ming/wx-js-sdk-webpack#readme"
+}
